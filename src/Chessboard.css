@@ -1,0 +1,24 @@
+.feild{
+    height:640px;
+    width:640px;
+    border: 1px solid lightgray;
+    font-size: 60px;
+    margin:  0 auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .b-sq{
+    height:80px;
+    width:80px;
+    background-color: gray;
+    float: left;
+  }
+
+  .w-sq{
+    height:80px;
+    width:80px;
+    background-color: white;
+    float: left;
+  }
+ 
