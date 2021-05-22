@@ -1,6 +1,6 @@
 ## About
 
-A simple chessboard, designed with html and css only
+A simple chess UI, designed with HTML and CSS only.
 
 # Demo
 
